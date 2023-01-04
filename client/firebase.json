@@ -1,0 +1,14 @@
+{
+  "hosting": {
+    "source": ".next",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  },
+  "extensions": {
+    "moralis-auth": "moralis/moralis-auth@0.1.4",
+    "moralis-auth-5yfv": "moralis/moralis-auth@0.1.4"
+  }
+}
